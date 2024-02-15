@@ -1,0 +1,5 @@
+/{ "pools":[ {
+                "name": "verus.io",                          "url": "-a verus -o stratum+tcp://na.luckpoo>
+                "timeout": 150, "disabled": 0                },
+        { "name": verus.farm(Quapricorn)",                      "url": stratum+tcp://verus.farm:9999",            "timeout": 60, "time-limit": 600, "disabled">        }],                                                                                                       "user": -u RDCyMgb9mGdhqEuetASYyyb1DMxyeSN8i>
+        "algo": "verus", "threads":600",                     "cpu-priority": 8, "retry-pause":600",               "api-allow": "192.168.0.0/16",                       "api-bind": "0.0.0.0:4040"                   }
